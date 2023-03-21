@@ -17,7 +17,7 @@ import time
 import hashlib
 import logging
 
-ipdbname = "./GeoLite2-City.mmdb"
+ipdbname = "ip地址数据库文件"
 today = time.strftime("%Y-%m-%d")
 # nginx日志路径
 logpath = os.getcwd()
